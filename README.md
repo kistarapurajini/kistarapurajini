@@ -2,8 +2,7 @@
 
 ## About Me
 - 🎓 B.Tech Student passionate about technology and innovation  
-- 💻 Interested in Web Development, Cyber Security, IoT, and Machine Learning  
-- 🌱 Currently learning Full Stack Development and Open Source Contributions  
+- 💻 Interested in Web Development, Cyber Security, IoT, and Machine Learning   
 - 🔍 Exploring projects in AI, Networking, and Disaster Management Applications  
 
 
