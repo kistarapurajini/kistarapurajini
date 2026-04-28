@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm Rajini
 
-<!--
-**kistarapurajini/kistarapurajini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 B.Tech Student passionate about technology and innovation  
+- 💻 Interested in Web Development, Cyber Security, IoT, and Machine Learning  
+- 🌱 Currently learning Full Stack Development and Open Source Contributions  
+- 🔍 Exploring projects in AI, Networking, and Disaster Management Applications  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+- 🏠 Property Listing Management System  
+- 🌐 Networking and Security Mini Projects  
+
+## Connect With Me
+- GitHub: https://github.com/kistarapurajini
+- LinkedIn:https://www.linkedin.com/in/rajini-kistarapu-67a504295/
+
+⭐ “Learning, Building, and Growing Every Day.”
